@@ -163,3 +163,11 @@ Notes:
 - You may need `ffmpeg` installed and available on your PATH (depending on the audio format yt-dlp downloads).
 - For NVIDIA GPUs, try `LOCAL_ASR_DEVICE=cuda` with `LOCAL_ASR_COMPUTE_TYPE=float16`.
 - Only use this on videos you have permission to process; respect YouTube Terms of Service and copyright.
+
+
+
+
+## Demo Video
+
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/user-attachments/assets/02107984-f59f-4350-85d0-afceed40984d)
+
